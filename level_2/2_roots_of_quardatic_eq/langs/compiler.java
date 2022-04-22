@@ -1,11 +1,12 @@
-//compiler boilderplate
-class abc{
+class Driver{
     public static void main(String args[]){
         Scanner scanner = new Scanner(System.in);
-        String myString = scanner.next();
+        int a = scanner.nextInt();
+        int b = scanner.nextInt();
+        int c = scanner.nextInt();
         scanner.close();
 
         Solution sol = new Solution();
-        System.out.print(Character.toString(sol.firstChar(myString)));
+        System.out.print(sol.solution(a, b, c));
     }
 }

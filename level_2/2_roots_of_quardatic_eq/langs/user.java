@@ -1,8 +1,7 @@
-//User Boilerplate
 import java.util.Scanner;
 
 class Solution {
-    public Character firstChar(String input) {
+    public static String solution(int a, int b, int c) {
         //write your code here
     }
 }

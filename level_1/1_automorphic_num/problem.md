@@ -23,4 +23,4 @@ The output must be 1 if square has the same digits in the end as the number itse
 
 ## User Task
 
-You task is to complete `solution()` which accepts an integer and returns the expected answer. You don't need to read the input as a string, just write code within the function block directly.
+You task is to complete `solution()` which accepts an integer and returns the expected answer. You don't need to read the input as a integer, just write code within the function block directly.

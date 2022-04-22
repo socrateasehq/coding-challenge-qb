@@ -1,6 +1,6 @@
 ## Problem Statement
 
-Write a Java Program to remove all white spaces from a string without using replace().
+Write a Program to remove all white spaces from a string without using replace().
 
 ## Example
 

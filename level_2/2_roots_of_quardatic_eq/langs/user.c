@@ -3,6 +3,6 @@
 
 using namespace std;
 
-char first_character(string s) {
-    return(s[0]);   
+char* solution(int a, int b, int c) {
+    //write your code here
 }

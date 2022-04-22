@@ -10,7 +10,7 @@ F.e.: 6 is a perfect number. Factors of 6 are 1, 2, 3
 
 Sum of the factors `1 + 2 + 3 = 6`
 
-Here, 6 is equal to sum so output is `1` s
+Here, 6 is equal to sum so output will be `1`
 
 ## Input
 
@@ -20,7 +20,7 @@ The input must be an integer N.
 
 ## Output
 
-The output must print the perfect numbers from 1 to N. It should be a string of numbers separated by space.
+The output must print the perfect numbers from 1 to N. It should be a string of space separated integers.
 
 **Example**
 
@@ -29,4 +29,4 @@ Output: 6 28
 
 ## User Task
 
-You task is to complete `solution()` which accepts an integer and returns the expected answer. You don't need to read the input as a string, just write code within the function block directly.
+You task is to complete `solution()` which accepts an integer and returns the expected answer. You don't need to read the input, just write code within the function block directly.
